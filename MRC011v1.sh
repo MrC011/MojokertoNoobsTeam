@@ -180,7 +180,7 @@ pkg install python
 pkg install git
 git clone https://github.com/Gameye98/santet-online
 cd santet-online
-python santet.py
+python2 santet.py
 fi
 
 if [ $pilihan = "12" ] || [ $pilihan = "12" ]
